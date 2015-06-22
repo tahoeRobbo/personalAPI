@@ -1,0 +1,25 @@
+{
+  "name": "robs-api",
+  "version": "1.0.0",
+  "description": "Practicing building basic API structure ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahoeRobbo/personalAPI.git"
+  },
+  "author": "Robert R Hallowell --tahoeRobbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahoeRobbo/personalAPI/issues"
+  },
+  "homepage": "https://github.com/tahoeRobbo/personalAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.0"
+  }
+}
